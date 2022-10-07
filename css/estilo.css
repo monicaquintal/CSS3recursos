@@ -1,0 +1,25 @@
+/* Aula 03: */
+
+#caixa {
+  width: 300px;
+  height: 300px;
+  background: #b9c941;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 10px 50px 80px 100px; /*esquerda topo, direita topo, direita baixo, esquerda baixo*/
+}
+
+.arredondamento {
+  border-radius: 150px;
+}
+
+/* 
+Algumas versões mais antigas de browsers não suportam a propriedade border radius; utilizar prefixos para que o browser compreenda a funcionalidade (chrome, mozila, safari) 
+Exemplo:
+-webkit-border-radius: 10px 50px 80px 100px; CHROME
+-moz-border-radius: 10px 50px 80px 100px; MOZILA
+
+
+BOX SIZING:
+Independente do padding, o tamanho da caixa será o mesmo sempre;
+Também utilizar prefixos. */
