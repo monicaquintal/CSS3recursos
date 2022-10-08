@@ -29,3 +29,11 @@
   Há tambpem o parâmetro spread, quarto valor, que é o espalhamento da sombra. <br>
 
 - Aula 06: Animações. <br>
+
+  Em CSS, são possibilidades de ir de uma formatação para outra.<br>
+  <em>"keyframes"</em> identifica que estamos fazendo uma animação, e deve-se dar um nome a ela na sequência. <br>
+  Cria a animação separadamente, depois utiliza dentro do identificador da caixa, como uma propriedade CSS.<br>
+  Aplicar os prefixos para que as animações funcionem corretamente. <br>
+  É possivel definir todos os parâmetros em uma única linha. <br>
+
+- Aula 07: Transições. <br>
