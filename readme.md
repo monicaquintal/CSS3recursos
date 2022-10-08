@@ -69,4 +69,7 @@
 - O atributo <em>autofocus</em> aplica o foco sobre o campo em que é inserido; pode ser usado para marcar um campo específico ou sinalizar aqueles de preenchimento obrigatório, por exemplo.<br>
 - <em>type="number"</em> torna o preenchimento permitido apenas para números, e inclui a seta para aumentar ou reduzir o valor. Pode ainda inserir os atributos <em>min</em> e <em>max</em> para determinar valores mínimo e máximo. O <em>step</em> determina de quantidade de números adicionados quando pressiona a seta.<br>
 - <em>type="url"</em> só aceita formatos válidos de urls. O <em>placeholder</em> possibilita que seja inserido o exemplo de preenchimento.<br>
-- <em>type="search"</em>
+- <em>type="search"</em> inclui o x no canto do input, para limpar o conteúdo digitado.<br>
+- <em>type="range"</em> habilita o marcador que permite arrastar de um lado para o outro. Também pode ser inserido min, max e valor fixo inicial.<br>
+- <em>type="date"</em> utilizado para inserir datas.<br>
+- <em>type="color"</em> permite que o unuário faça configurações de customização.<br>
