@@ -54,4 +54,12 @@
 - A tag &lt;time&gt; é utilizada para inserir e formatar datas em geral.<br>
 - A tag &lt;aside&gt; é utilizada para definir conteúdos laterais.<br><br>
 
-<strong>10. Compatibilidade HTML5. <br><br></strong>
+<strong>10. Aula 10: Compatibilidade HTML5. <br><br></strong>
+
+- Algumas versões de browsers não conseguem interpretar/entender as tags e recursos mais modernos, causando problemas de renderização.<br>
+- Para isso, há o <a href="https://cdnjs.com/libraries/html5shiv" target="_blank">HTML5 shiv</a>. Há versões diferentes, usar sempre a mais recente. <br>
+- Basicamente, no início do código, há "if" = se, "lt" = anterior, "IE" = Internet Explorer 9, o código aplica-se. <br>
+- Copiar e colar um dos links no nosso projeto, dentro da tag &lt;head&gt;.<br>
+- É possível também copiar diretamente os códigos do HTML5shiv.js no nosso arquivo de trabalho.<br><br>
+
+<strong>11. Aula 11: Novas tags de Input.</strong><br><br>
