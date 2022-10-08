@@ -16,6 +16,16 @@
   <em>BOX SIZING:</em> independente do padding, o tamanho da caixa será o mesmo sempre; também utilizar prefixos.<br>
 
 - Aula 04: Degradê e transparências. <br>
+
   linear-gradient, radial-gradient, rgba. <br>
 
 - Aula 05: Sombras. <br>
+
+  <em>text-shadow:</em> primeiro parâmetro movimenta a sombra na horizontal, e o segundo, na vertical. Podem ser utilizados valores negativos;<br>
+  A sombra funciona como um background, não empurra os textos;<br>
+  Inserir a cor da sombra na sequência (nome, hexadecimal, rgba);<br>
+  A sombra pode ser aplicada diretamente na div (caixa), utilizando <em>box-shadow</em>;<br>
+  É possível aplicar um blur incluindo um terceiro valor; <br>
+  Há tambpem o parâmetro spread, quarto valor, que é o espalhamento da sombra. <br>
+
+- Aula 06: Animações. <br>

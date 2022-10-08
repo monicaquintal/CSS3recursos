@@ -1,4 +1,6 @@
-/* AULA 03
+/* 
+AULA 03
+
 
 #caixa {
   width: 300px;
@@ -14,13 +16,10 @@
 }
 
 
-
-------------------------------------------------------------
-
+----------------------------------------------------------------
 
 
 AULA 04 
-
 
 
 #caixa {
@@ -31,19 +30,37 @@ AULA 04
   /* background: radial-gradient(pink, white, purple);
 }
 
-
 h1 {
   background: rgba(255, 255, 255, 0.8); /* O último valor define o grau da transparência
 } 
 
 
+----------------------------------------------------------------
 
+
+AULA 05 
+
+
+#caixa {
+  width: 300px;
+  height: 300px;
+  padding: 8px;
+  margin: 20px;
+  background: #009670;
+  box-shadow: 20px 20px black;
+}
+
+#caixa h1 {
+  color: white;
+  text-shadow: -10px -10px black;
+  text-shadow: -10px -10px rgba(0, 0, 0, 0.2);
+}
+ 
 
 ----------------------------------------------------------------
 
 
-
-AULA 05 
+AULA 06
 
 
 */
