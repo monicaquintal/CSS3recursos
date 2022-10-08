@@ -44,8 +44,14 @@
 
   8. Aula 08: Novas tags HTML5 - Header, Nave e Footer. <br><br>
 
-  - A tag &lt;header&gt; é uma tag de cabeçalho, evitando o id "cabeçalho" e facilitando a aplicação de formatações, de localização e para leitores;<br>
-  - A tag &lt;nav&gt;, por sua vez, define uma navegação. Utilizada em listas de links, principalmente;<br>
-  - A tag &lt;footer&gt; substitiu a id de rodapé.<br>
+  - A tag &lt;header&gt; é uma tag de cabeçalho, evitando o id "cabeçalho" e facilitando a aplicação de formatações, de localização e para leitores.<br>
+  - A tag &lt;nav&gt;, por sua vez, define uma navegação. Utilizada em listas de links, principalmente.<br>
+  - A tag &lt;footer&gt; substitiu a id de rodapé.<br><br>
 
   9. Aula 09: Novas tags HTML5 - Article, Section, Aside e time. <br><br>
+
+  - A tag &lt;article&gt;: estrutura o site; pode incluir as postagens dentro dessa tag, por exemplo. É possível criar seções (tag &lt;section&gt;) dentro dele para separar os conteúdos.<br>
+  - A tag &lt;time&gt; é utilizada para inserir e formatar datas em geral.<br>
+  - A tag &lt;aside&gt; é utilizada para definir conteúdos laterais.<br><br>
+
+  10. Compatibilidade HTML5. <br><br>
