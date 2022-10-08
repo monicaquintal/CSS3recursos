@@ -63,3 +63,10 @@
 - É possível também copiar diretamente os códigos do HTML5shiv.js no nosso arquivo de trabalho.<br><br>
 
 <strong>11. Aula 11: Novas tags de Input.</strong><br><br>
+
+- O atrituto <em>type="email"</em> para o &lt;input&gt; faz a verificação se o formato do texto enviado é compatível com um e-mail.<br>
+- O atributo <em>required</em>, por sua vez, torna obrigatório o preenchimento da informação neste campo.<br>
+- O atributo <em>autofocus</em> aplica o foco sobre o campo em que é inserido; pode ser usado para marcar um campo específico ou sinalizar aqueles de preenchimento obrigatório, por exemplo.<br>
+- <em>type="number"</em> torna o preenchimento permitido apenas para números, e inclui a seta para aumentar ou reduzir o valor. Pode ainda inserir os atributos <em>min</em> e <em>max</em> para determinar valores mínimo e máximo. O <em>step</em> determina de quantidade de números adicionados quando pressiona a seta.<br>
+- <em>type="url"</em> só aceita formatos válidos de urls. O <em>placeholder</em> possibilita que seja inserido o exemplo de preenchimento.<br>
+- <em>type="search"</em>
