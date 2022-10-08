@@ -2,7 +2,7 @@
 
 1. Aula 01: Apresentação.<br><br>
 
-2. Aula 02: Normalize CSS. <br><br><
+2. Aula 02: Normalize CSS. <br><br>
 
   - Corrige diferenças de exibições entre browsers e corrige bugs comuns em CSS, em razão dessas diferenças.<br>
   - <a href="https://necolas.github.io/normalize.css/" target="_blank">Link para documentação e download.</a> <br><br>
@@ -37,3 +37,9 @@
   - É possivel definir todos os parâmetros em uma única linha. <br><br>
 
 7. Aula 07: Transições. <br><br>
+
+  - Para transições, utilizar ":hover";<br>
+  - A propriedade "Transition" também requer o uso dos prefixos corretos;<br>
+  - Permite incluir parâmetros, como tempo para a transição ocorrer. Conferir o <a href="https://www.w3schools.com/css/css3_transitions.asp" target="_blank">link</a>. <br><br>
+
+  7. Aula 08: Novas tags HTML5 Header, Nave Footer. <br><br>
