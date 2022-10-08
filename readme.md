@@ -42,4 +42,10 @@
   - A propriedade "Transition" também requer o uso dos prefixos corretos;<br>
   - Permite incluir parâmetros, como tempo para a transição ocorrer. Conferir o <a href="https://www.w3schools.com/css/css3_transitions.asp" target="_blank">link</a>. <br><br>
 
-  7. Aula 08: Novas tags HTML5 Header, Nave Footer. <br><br>
+  8. Aula 08: Novas tags HTML5 - Header, Nave e Footer. <br><br>
+
+  - A tag &lt;header&gt; é uma tag de cabeçalho, evitando o id "cabeçalho" e facilitando a aplicação de formatações, de localização e para leitores;<br>
+  - A tag &lt;nav&gt;, por sua vez, define uma navegação. Utilizada em listas de links, principalmente;<br>
+  - A tag &lt;footer&gt; substitiu a id de rodapé.<br>
+
+  9. Aula 09: Novas tags HTML5 - Article, Section, Aside e time. <br><br>
